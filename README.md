@@ -20,6 +20,6 @@ only generated to admin and he/she can show it to the users if needed.
 The tools required to build the app are Android Studio, Firebase,
 Tensorflow along with other required API’s.(Some of the tools mentioned
 above are subject to change depending on the course of building the app
-along with the compatibility.)
+along with the compatibility).
 
 <a href="https://imgflip.com/gif/630hkh"><img src="https://i.imgflip.com/630hkh.gif" title="gif"/></a>
